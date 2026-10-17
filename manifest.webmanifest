@@ -1,1 +1,44 @@
-{"name":"Bolsillo — finanzas personales","short_name":"Bolsillo","description":"Ingresos, gastos, presupuesto y metas de ahorro en pesos colombianos.","lang":"es-CO","start_url":"./","scope":"./","display":"standalone","background_color":"#010603","theme_color":"#010603","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]}
+{
+  "id": "/bolsillo/",
+  "name": "Bolsillo — finanzas personales",
+  "short_name": "Bolsillo",
+  "description": "Ingresos, gastos, presupuesto y metas de ahorro en pesos colombianos.",
+  "lang": "es-CO",
+  "dir": "ltr",
+  "start_url": "/bolsillo/",
+  "scope": "/bolsillo/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#010603",
+  "theme_color": "#010603",
+  "categories": [
+    "finance",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
